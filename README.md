@@ -2,8 +2,12 @@
 ## MVPs
 1. Scheduler algorithms
     - [ ] FIFO
-    - [x] SJF
+    - [ ] SJF
     - [ ] RR
     - [ ] SPCF
 2. Working gameplay
-3. 
+    - [ ] Player character
+    - [ ] Enemy AI (customers)
+    - [ ] Map
+    - [ ] 3 Rounds: 5 mins each
+        - [ ] Increase difficulty statically per round. 
