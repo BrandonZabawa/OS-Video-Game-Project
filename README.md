@@ -2,7 +2,7 @@
 ## MVPs
 1. Scheduler algorithms
     - [ ] FIFO
-    - [ ] SJF
+    - [x] SJF
     - [ ] RR
     - [ ] SPCF
 2. Working gameplay
