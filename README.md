@@ -1,4 +1,5 @@
-# OS-Video-Game-Project
+# OS-Video-Game-Project - This ones depricated ignore
+
 ## MVPs
 1. Scheduler algorithms
     - [ ] FIFO
